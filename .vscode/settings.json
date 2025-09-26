@@ -1,0 +1,14 @@
+{
+	"biome.enabled": true,
+	"editor.defaultFormatter": "biomejs.biome",
+	"editor.formatOnSave": true,
+	"editor.codeActionsOnSave": {
+		"source.fixAll": "explicit",
+		"source.organizeImports.biome": "explicit"
+	},
+	"extensions.ignoreRecommendations": false,
+	"files.associations": {
+		".dev.vars": "dotenv"
+	},
+	"cSpell.words": ["notionhq"]
+}
